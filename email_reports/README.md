@@ -1,0 +1,1 @@
+web AUTOMATION that goes to a website, download an excel SELLS DATABASE, extract wanted DATA, WRITE and SEND a REPORT EMAIL.
